@@ -1,4 +1,4 @@
-name: Build Debian Package
+name: Build and Release Debian Package
 
 on:
   push:
@@ -6,8 +6,11 @@ on:
       - main
       - master
     tags:
-      - 'v*'        # e.g. v1.0.0
+      - 'v*'        # e.g. v1.0.0, v1.1.2
   workflow_dispatch: # allow manual run
+
+permissions:
+  contents: write   # needed to create GitHub Releases
 
 jobs:
   build-deb:
@@ -29,7 +32,6 @@ jobs:
             debhelper \
             build-essential
 
-      # Optional safety: ensure source format file exists
       - name: Ensure debian/source/format exists
         run: |
           mkdir -p debian/source
@@ -44,7 +46,6 @@ jobs:
       - name: Collect built artifacts
         run: |
           mkdir -p artifacts
-          # Move any generated .deb files into artifacts/
           mv ../*.deb artifacts/ || true
 
       - name: Upload .deb artifact
@@ -54,3 +55,23 @@ jobs:
           path: artifacts/*.deb
           if-no-files-found: error
 
+  release:
+    needs: build-deb
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/v')  # only run for tags
+
+    steps:
+      - name: Download built .deb artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: sfz-router-debs
+          path: artifacts
+
+      - name: Create GitHub Release and upload .deb
+        uses: softprops/action-gh-release@v2
+        with:
+          files: artifacts/*.deb
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
