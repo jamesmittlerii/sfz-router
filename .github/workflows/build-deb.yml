@@ -1,0 +1,56 @@
+name: Build Debian Package
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    tags:
+      - 'v*'        # e.g. v1.0.0
+  workflow_dispatch: # allow manual run
+
+jobs:
+  build-deb:
+    runs-on: ubuntu-latest
+
+    env:
+      DEBFULLNAME: "Jim Mittler"
+      DEBEMAIL: "jamesmittlerii@my.smccd.edu"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            devscripts \
+            debhelper \
+            build-essential
+
+      # Optional safety: ensure source format file exists
+      - name: Ensure debian/source/format exists
+        run: |
+          mkdir -p debian/source
+          if [ ! -f debian/source/format ]; then
+            echo "3.0 (native)" > debian/source/format
+          fi
+
+      - name: Build .deb package
+        run: |
+          debuild -us -uc
+
+      - name: Collect built artifacts
+        run: |
+          mkdir -p artifacts
+          # Move any generated .deb files into artifacts/
+          mv ../*.deb artifacts/ || true
+
+      - name: Upload .deb artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: sfz-router-debs
+          path: artifacts/*.deb
+          if-no-files-found: error
+
