@@ -1,0 +1,453 @@
+/////////////////////////////////////////////////////////////////////////////
+//// SFZ Definition File
+////-----------------------
+
+<region>
+sample=samples\wurly_el_piano up32_b0.wav
+lokey=33 hikey=35 lovel=0 hivel=32
+loop_mode=no_loop
+pitch_keycenter=35
+
+<region>
+sample=samples\wurly_el_piano up32_d#1.wav
+lokey=36 hikey=39 lovel=0 hivel=32
+loop_mode=no_loop
+pitch_keycenter=39
+
+<region>
+sample=samples\wurly_el_piano up32_g1.wav
+lokey=40 hikey=43 lovel=0 hivel=32
+loop_mode=no_loop
+pitch_keycenter=43
+
+<region>
+sample=samples\wurly_el_piano up32_c#2.wav
+lokey=44 hikey=49 lovel=0 hivel=32
+loop_mode=no_loop
+pitch_keycenter=49
+
+<region>
+sample=samples\wurly_el_piano up32_f2.wav
+lokey=50 hikey=53 lovel=0 hivel=32
+loop_mode=no_loop
+pitch_keycenter=53
+
+<region>
+sample=samples\wurly_el_piano up32_a2.wav
+lokey=54 hikey=57 lovel=0 hivel=32
+loop_mode=no_loop
+pitch_keycenter=57
+
+<region>
+sample=samples\wurly_el_piano up32_c#3.wav
+lokey=58 hikey=61 lovel=0 hivel=32
+loop_mode=no_loop
+pitch_keycenter=61
+
+<region>
+sample=samples\wurly_el_piano up32_f3.wav
+lokey=62 hikey=65 lovel=0 hivel=32
+loop_mode=no_loop
+pitch_keycenter=65
+
+<region>
+sample=samples\wurly_el_piano up32_a3.wav
+lokey=66 hikey=69 lovel=0 hivel=32
+loop_mode=no_loop
+pitch_keycenter=69
+
+<region>
+sample=samples\wurly_el_piano up32_c#4.wav
+lokey=70 hikey=73 lovel=0 hivel=32
+loop_mode=no_loop
+pitch_keycenter=73
+
+<region>
+sample=samples\wurly_el_piano up32_f4.wav
+lokey=74 hikey=77 lovel=0 hivel=32
+loop_mode=no_loop
+pitch_keycenter=77
+
+<region>
+sample=samples\wurly_el_piano up32_a4.wav
+lokey=78 hikey=81 lovel=0 hivel=32
+loop_mode=no_loop
+pitch_keycenter=81
+
+<region>
+sample=samples\wurly_el_piano up32_c#5.wav
+lokey=82 hikey=85 lovel=0 hivel=32
+loop_mode=one_shot
+pitch_keycenter=85
+
+<region>
+sample=samples\wurly_el_piano up32_f5.wav
+lokey=86 hikey=89 lovel=0 hivel=32
+loop_mode=one_shot
+pitch_keycenter=89
+
+<region>
+sample=samples\wurly_el_piano up65_a5.wav
+lokey=90 hikey=96 lovel=33 hivel=65
+loop_mode=one_shot
+pitch_keycenter=93
+
+<region>
+sample=samples\wurly_el_piano up65_b0.wav
+lokey=33 hikey=35 lovel=33 hivel=65
+loop_mode=no_loop
+pitch_keycenter=35
+
+<region>
+sample=samples\wurly_el_piano up65_d#1.wav
+lokey=36 hikey=39 lovel=33 hivel=65
+loop_mode=no_loop
+pitch_keycenter=39
+
+<region>
+sample=samples\wurly_el_piano up65_g1.wav
+lokey=40 hikey=43 lovel=33 hivel=65
+loop_mode=no_loop
+pitch_keycenter=43
+
+<region>
+sample=samples\wurly_el_piano up65_c#2.wav
+lokey=44 hikey=49 lovel=33 hivel=65
+loop_mode=no_loop
+pitch_keycenter=49
+
+<region>
+sample=samples\wurly_el_piano up65_f2.wav
+lokey=50 hikey=53 lovel=33 hivel=65
+loop_mode=no_loop
+pitch_keycenter=53
+
+<region>
+sample=samples\wurly_el_piano up65_a2.wav
+lokey=54 hikey=57 lovel=33 hivel=65
+loop_mode=no_loop
+pitch_keycenter=57
+
+<region>
+sample=samples\wurly_el_piano up65_c#3.wav
+lokey=58 hikey=61 lovel=33 hivel=65
+loop_mode=no_loop
+pitch_keycenter=61
+
+<region>
+sample=samples\wurly_el_piano up65_f3.wav
+lokey=62 hikey=65 lovel=33 hivel=65
+loop_mode=no_loop
+pitch_keycenter=65
+
+<region>
+sample=samples\wurly_el_piano up65_a3.wav
+lokey=66 hikey=69 lovel=33 hivel=65
+loop_mode=no_loop
+pitch_keycenter=69
+
+<region>
+sample=samples\wurly_el_piano up65_c#4.wav
+lokey=70 hikey=73 lovel=33 hivel=65
+loop_mode=no_loop
+pitch_keycenter=73
+
+<region>
+sample=samples\wurly_el_piano up65_f4.wav
+lokey=74 hikey=77 lovel=33 hivel=65
+loop_mode=no_loop
+pitch_keycenter=77
+
+<region>
+sample=samples\wurly_el_piano up65_a4.wav
+lokey=78 hikey=81 lovel=33 hivel=65
+loop_mode=no_loop
+pitch_keycenter=81
+
+<region>
+sample=samples\wurly_el_piano up65_c#5.wav
+lokey=82 hikey=85 lovel=33 hivel=65
+loop_mode=no_loop
+pitch_keycenter=85
+
+<region>
+sample=samples\wurly_el_piano up65_f5.wav
+lokey=86 hikey=89 lovel=33 hivel=65
+loop_mode=one_shot
+pitch_keycenter=89
+
+<region>
+sample=samples\wurly_el_piano up32_a5.wav
+lokey=90 hikey=96 lovel=0 hivel=32
+loop_mode=one_shot
+pitch_keycenter=93
+
+<region>
+sample=samples\wurly_el_piano up103_b0.wav
+lokey=33 hikey=35 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=35
+
+<region>
+sample=samples\wurly_el_piano up103_d#1.wav
+lokey=36 hikey=39 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=39
+
+<region>
+sample=samples\wurly_el_piano up103_g1.wav
+lokey=40 hikey=43 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=43
+
+<region>
+sample=samples\wurly_el_piano up103_c#2.wav
+lokey=44 hikey=49 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=49
+
+<region>
+sample=samples\wurly_el_piano up103_f2.wav
+lokey=50 hikey=53 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=53
+
+<region>
+sample=samples\wurly_el_piano up103_a2.wav
+lokey=54 hikey=57 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=57
+
+<region>
+sample=samples\wurly_el_piano up103_c#3.wav
+lokey=58 hikey=61 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=61
+
+<region>
+sample=samples\wurly_el_piano up103_f3.wav
+lokey=62 hikey=65 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=65
+
+<region>
+sample=samples\wurly_el_piano up103_a3.wav
+lokey=66 hikey=69 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=69
+
+<region>
+sample=samples\wurly_el_piano up103_c#4.wav
+lokey=70 hikey=73 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=73
+
+<region>
+sample=samples\wurly_el_piano up103_f4.wav
+lokey=74 hikey=77 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=77
+
+<region>
+sample=samples\wurly_el_piano up103_a4.wav
+lokey=78 hikey=81 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=81
+
+<region>
+sample=samples\wurly_el_piano up103_c#5.wav
+lokey=82 hikey=85 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=85
+
+<region>
+sample=samples\wurly_el_piano up103_f5.wav
+lokey=86 hikey=89 lovel=66 hivel=103
+loop_mode=no_loop
+pitch_keycenter=89
+
+<region>
+sample=samples\wurly_el_piano up103_a5.wav
+lokey=90 hikey=96 lovel=66 hivel=103
+loop_mode=one_shot
+pitch_keycenter=93
+
+<region>
+sample=samples\wurly_el_piano up122_b0.wav
+lokey=33 hikey=35 lovel=104 hivel=122
+loop_mode=no_loop
+pitch_keycenter=35
+
+<region>
+sample=samples\wurly_el_piano up122_d#1.wav
+lokey=36 hikey=39 lovel=104 hivel=122
+loop_mode=no_loop
+pitch_keycenter=39
+
+<region>
+sample=samples\wurly_el_piano up122_g1.wav
+lokey=40 hikey=43 lovel=104 hivel=122
+loop_mode=no_loop
+pitch_keycenter=43
+
+<region>
+sample=samples\wurly_el_piano up122_c#2.wav
+lokey=44 hikey=49 lovel=104 hivel=122
+loop_mode=no_loop
+pitch_keycenter=49
+
+<region>
+sample=samples\wurly_el_piano up122_f2.wav
+lokey=50 hikey=53 lovel=104 hivel=122
+loop_mode=no_loop
+pitch_keycenter=53
+
+<region>
+sample=samples\wurly_el_piano up122_a2.wav
+lokey=54 hikey=57 lovel=104 hivel=122
+loop_mode=no_loop
+pitch_keycenter=57
+
+<region>
+sample=samples\wurly_el_piano up122_c#3.wav
+lokey=58 hikey=61 lovel=104 hivel=122
+loop_mode=no_loop
+pitch_keycenter=61
+
+<region>
+sample=samples\wurly_el_piano up122_f3.wav
+lokey=62 hikey=65 lovel=104 hivel=122
+loop_mode=no_loop
+pitch_keycenter=65
+
+<region>
+sample=samples\wurly_el_piano up122_a3.wav
+lokey=66 hikey=69 lovel=104 hivel=122
+loop_mode=no_loop
+pitch_keycenter=69
+
+<region>
+sample=samples\wurly_el_piano up122_c#4.wav
+lokey=70 hikey=73 lovel=104 hivel=122
+loop_mode=no_loop
+pitch_keycenter=73
+
+<region>
+sample=samples\wurly_el_piano up122_f4.wav
+lokey=74 hikey=77 lovel=104 hivel=122
+loop_mode=no_loop
+pitch_keycenter=77
+
+<region>
+sample=samples\wurly_el_piano up122_a4.wav
+lokey=78 hikey=81 lovel=104 hivel=122
+loop_mode=no_loop
+pitch_keycenter=81
+
+<region>
+sample=samples\wurly_el_piano up122_c#5.wav
+lokey=82 hikey=85 lovel=104 hivel=122
+loop_mode=no_loop
+pitch_keycenter=85
+
+<region>
+sample=samples\wurly_el_piano up122_f5.wav
+lokey=86 hikey=89 lovel=104 hivel=122
+loop_mode=one_shot
+pitch_keycenter=89
+
+<region>
+sample=samples\wurly_el_piano up122_a5.wav
+lokey=90 hikey=96 lovel=104 hivel=122
+loop_mode=one_shot
+pitch_keycenter=93
+
+<region>
+sample=samples\wurly_el_piano up127_b0.wav
+lokey=33 hikey=35 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=35
+
+<region>
+sample=samples\wurly_el_piano up127_d#1.wav
+lokey=36 hikey=39 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=39
+
+<region>
+sample=samples\wurly_el_piano up127_g1.wav
+lokey=40 hikey=43 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=43
+
+<region>
+sample=samples\wurly_el_piano up127_c#2.wav
+lokey=44 hikey=49 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=49
+
+<region>
+sample=samples\wurly_el_piano up127_f2.wav
+lokey=50 hikey=53 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=53
+
+<region>
+sample=samples\wurly_el_piano up127_a2.wav
+lokey=54 hikey=57 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=57
+
+<region>
+sample=samples\wurly_el_piano up127_c#3.wav
+lokey=58 hikey=61 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=61
+
+<region>
+sample=samples\wurly_el_piano up127_f3.wav
+lokey=62 hikey=65 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=65
+
+<region>
+sample=samples\wurly_el_piano up127_a3.wav
+lokey=66 hikey=69 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=69
+
+<region>
+sample=samples\wurly_el_piano up127_c#4.wav
+lokey=70 hikey=73 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=73
+
+<region>
+sample=samples\wurly_el_piano up127_f4.wav
+lokey=74 hikey=77 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=77
+
+<region>
+sample=samples\wurly_el_piano up127_a4.wav
+lokey=78 hikey=81 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=81
+
+<region>
+sample=samples\wurly_el_piano up127_c#5.wav
+lokey=82 hikey=85 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=85
+
+<region>
+sample=samples\wurly_el_piano up127_f5.wav
+lokey=86 hikey=89 lovel=123 hivel=127
+loop_mode=no_loop
+pitch_keycenter=89
+
+<region>
+sample=samples\wurly_el_piano up127_a5.wav
+lokey=90 hikey=96 lovel=123 hivel=127
+loop_mode=one_shot
+pitch_keycenter=93
