@@ -1,0 +1,1443 @@
+/////////////////////////////////////////////////////////////////////////////
+//// SFZ Definition File
+////-----------------------
+
+<region>
+sample=samples\Clavinet54_f0.wav
+key=29 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_f#0.wav
+key=30 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_g0.wav
+key=31 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_g#0.wav
+key=32 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_a0.wav
+key=33 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_a#0.wav
+key=34 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_b0.wav
+key=35 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_c1.wav
+key=36 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_c#1.wav
+key=37 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_d1.wav
+key=38 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_d#1.wav
+key=39 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_e1.wav
+key=40 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_f1.wav
+key=41 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_f#1.wav
+key=42 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_g1.wav
+key=43 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_g#1.wav
+key=44 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_a1.wav
+key=45 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_a#1.wav
+key=46 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_b1.wav
+key=47 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_c2.wav
+key=48 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_c#2.wav
+key=49 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_d2.wav
+key=50 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_d#2.wav
+key=51 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_e2.wav
+key=52 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_f2.wav
+key=53 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_f#2.wav
+key=54 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_g2.wav
+key=55 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_g#2.wav
+key=56 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_a2.wav
+key=57 lovel=0 hivel=54
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet54_a#2.wav
+key=58 lovel=0 hivel=54
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet54_b2.wav
+key=59 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_c3.wav
+key=60 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_c#3.wav
+key=61 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_d3.wav
+key=62 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_d#3.wav
+key=63 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_e3.wav
+key=64 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_f3.wav
+key=65 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_f#3.wav
+key=66 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_g3.wav
+key=67 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_g#3.wav
+key=68 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_a3.wav
+key=69 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_a#3.wav
+key=70 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_b3.wav
+key=71 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_c4.wav
+key=72 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_c#4.wav
+key=73 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_d4.wav
+key=74 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_d#4.wav
+key=75 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_e4.wav
+key=76 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_f4.wav
+key=77 lovel=0 hivel=54
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet54_f#4.wav
+key=78 lovel=0 hivel=54
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet54_g4.wav
+key=79 lovel=0 hivel=54
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet54_g#4.wav
+key=80 lovel=0 hivel=54
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet54_a4.wav
+key=81 lovel=0 hivel=54
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet54_a#4.wav
+key=82 lovel=0 hivel=54
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet54_b4.wav
+key=83 lovel=0 hivel=54
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet54_c5.wav
+key=84 lovel=0 hivel=54
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet54_c#5.wav
+key=85 lovel=0 hivel=54
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet54_d5.wav
+key=86 lovel=0 hivel=54
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet54_d#5.wav
+key=87 lovel=0 hivel=54
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet54_e5.wav
+key=88 lovel=0 hivel=54
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet83_f0.wav
+key=29 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_f#0.wav
+key=30 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_g0.wav
+key=31 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_g#0.wav
+key=32 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_a0.wav
+key=33 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_a#0.wav
+key=34 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_b0.wav
+key=35 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_c1.wav
+key=36 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_c#1.wav
+key=37 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_d1.wav
+key=38 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_d#1.wav
+key=39 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_e1.wav
+key=40 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_f1.wav
+key=41 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_f#1.wav
+key=42 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_g1.wav
+key=43 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_g#1.wav
+key=44 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_a1.wav
+key=45 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_a#1.wav
+key=46 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_b1.wav
+key=47 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_c2.wav
+key=48 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_c#2.wav
+key=49 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_d2.wav
+key=50 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_d#2.wav
+key=51 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_e2.wav
+key=52 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_f2.wav
+key=53 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_f#2.wav
+key=54 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_g2.wav
+key=55 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_g#2.wav
+key=56 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_a2.wav
+key=57 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_a#2.wav
+key=58 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_b2.wav
+key=59 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_c3.wav
+key=60 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_c#3.wav
+key=61 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_d3.wav
+key=62 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_d#3.wav
+key=63 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_e3.wav
+key=64 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_f3.wav
+key=65 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_f#3.wav
+key=66 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_g3.wav
+key=67 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_g#3.wav
+key=68 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_a3.wav
+key=69 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_a#3.wav
+key=70 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_b3.wav
+key=71 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_c4.wav
+key=72 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_c#4.wav
+key=73 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_d4.wav
+key=74 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_d#4.wav
+key=75 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_e4.wav
+key=76 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_f4.wav
+key=77 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_f#4.wav
+key=78 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_g4.wav
+key=79 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_g#4.wav
+key=80 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_a4.wav
+key=81 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_a#4.wav
+key=82 lovel=55 hivel=83
+loop_mode=one_shot
+ampeg_release=40
+
+<region>
+sample=samples\Clavinet83_b4.wav
+key=83 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_c5.wav
+key=84 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_c#5.wav
+key=85 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_d5.wav
+key=86 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_d#5.wav
+key=87 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet83_e5.wav
+key=88 lovel=55 hivel=83
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_f0.wav
+key=29 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_f#0.wav
+key=30 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_g0.wav
+key=31 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_g#0.wav
+key=32 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_a0.wav
+key=33 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_a#0.wav
+key=34 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_b0.wav
+key=35 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_c1.wav
+key=36 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_c#1.wav
+key=37 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_d1.wav
+key=38 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_d#1.wav
+key=39 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_e1.wav
+key=40 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_f1.wav
+key=41 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_f#1.wav
+key=42 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_g1.wav
+key=43 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_g#1.wav
+key=44 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_a1.wav
+key=45 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_a#1.wav
+key=46 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_b1.wav
+key=47 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_c2.wav
+key=48 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_c#2.wav
+key=49 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_d2.wav
+key=50 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_d#2.wav
+key=51 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_e2.wav
+key=52 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_f2.wav
+key=53 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_f#2.wav
+key=54 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_g2.wav
+key=55 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_g#2.wav
+key=56 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_a2.wav
+key=57 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_a#2.wav
+key=58 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_b2.wav
+key=59 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_c3.wav
+key=60 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_c#3.wav
+key=61 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_d3.wav
+key=62 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_d#3.wav
+key=63 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_e3.wav
+key=64 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_f3.wav
+key=65 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_f#3.wav
+key=66 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_g3.wav
+key=67 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_g#3.wav
+key=68 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_a3.wav
+key=69 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_a#3.wav
+key=70 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_b3.wav
+key=71 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_c4.wav
+key=72 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_c#4.wav
+key=73 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_d4.wav
+key=74 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_d#4.wav
+key=75 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_e4.wav
+key=76 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_f4.wav
+key=77 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_f#4.wav
+key=78 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_g4.wav
+key=79 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_g#4.wav
+key=80 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_a4.wav
+key=81 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_a#4.wav
+key=82 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_b4.wav
+key=83 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_c5.wav
+key=84 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_c#5.wav
+key=85 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_d5.wav
+key=86 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_d#5.wav
+key=87 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet106_e5.wav
+key=88 lovel=84 hivel=106
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_f0.wav
+key=29 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_f#0.wav
+key=30 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_g0.wav
+key=31 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_g#0.wav
+key=32 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_a0.wav
+key=33 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_a#0.wav
+key=34 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_b0.wav
+key=35 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_c1.wav
+key=36 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_c#1.wav
+key=37 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_d1.wav
+key=38 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_d#1.wav
+key=39 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_e1.wav
+key=40 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_f1.wav
+key=41 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_f#1.wav
+key=42 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_g1.wav
+key=43 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_g#1.wav
+key=44 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_a1.wav
+key=45 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_a#1.wav
+key=46 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_b1.wav
+key=47 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_c2.wav
+key=48 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_c#2.wav
+key=49 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_d2.wav
+key=50 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_d#2.wav
+key=51 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_e2.wav
+key=52 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_f2.wav
+key=53 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_f#2.wav
+key=54 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_g2.wav
+key=55 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_g#2.wav
+key=56 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_a2.wav
+key=57 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_a#2.wav
+key=58 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_b2.wav
+key=59 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_c3.wav
+key=60 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_c#3.wav
+key=61 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_d3.wav
+key=62 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_d#3.wav
+key=63 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_e3.wav
+key=64 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_f3.wav
+key=65 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_f#3.wav
+key=66 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_g3.wav
+key=67 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_g#3.wav
+key=68 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_a3.wav
+key=69 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_a#3.wav
+key=70 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_b3.wav
+key=71 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_c4.wav
+key=72 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_c#4.wav
+key=73 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_d4.wav
+key=74 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_d#4.wav
+key=75 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_e4.wav
+key=76 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_f4.wav
+key=77 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_f#4.wav
+key=78 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_g4.wav
+key=79 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_g#4.wav
+key=80 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_a4.wav
+key=81 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_a#4.wav
+key=82 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_b4.wav
+key=83 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_c5.wav
+key=84 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_c#5.wav
+key=85 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_d5.wav
+key=86 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_d#5.wav
+key=87 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
+
+<region>
+sample=samples\Clavinet127_e5.wav
+key=88 lovel=107 hivel=127
+loop_mode=no_loop
+ampeg_release=1
