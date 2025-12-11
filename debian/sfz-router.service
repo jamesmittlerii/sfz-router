@@ -1,0 +1,16 @@
+[Unit]
+Description=SFZ Router for SL88 (sfizz_jack + Program Change mapping)
+After=jack.service
+Wants=jack.service
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/usr/lib/sfz-router
+ExecStart=/usr/bin/python3 /usr/lib/sfz-router/sfz-router.py
+Restart=on-failure
+RestartSec=2
+
+[Install]
+WantedBy=multi-user.target
+

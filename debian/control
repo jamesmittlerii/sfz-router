@@ -1,0 +1,16 @@
+Source: sfz-router
+Section: sound
+Priority: optional
+Maintainer: Your Name jamesmittlerii@my.smccd.edu
+Standards-Version: 4.6.0
+Build-Depends: debhelper-compat (= 13)
+
+Package: sfz-router
+Architecture: all
+Depends: ${misc:Depends}, python3, python3-rtmidi, sfizz, jackd2
+Description: SFZ instrument router controlled by Studiologic SL88 keyboards
+ A lightweight Program Change → SFZ router for Raspberry Pi/Linux.
+ Listens for Program Change messages from SL88 Studio Mk2 and switches
+ sfizz instruments accordingly. Includes state persistence, debounce,
+ automatic JACK wiring, and clean systemd service integration.
+

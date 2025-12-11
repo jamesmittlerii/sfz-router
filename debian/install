@@ -1,0 +1,4 @@
+sfz-router.py usr/lib/sfz-router/
+sfz/* usr/share/sfz-router/sfz/
+debian/sfz-router.service lib/systemd/system/
+

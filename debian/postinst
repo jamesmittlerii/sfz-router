@@ -1,0 +1,18 @@
+#!/bin/sh
+set -e
+
+case "$1" in
+  configure)
+    # Ensure state directory exists
+    mkdir -p /var/lib/sfz-router
+    chmod 755 /var/lib/sfz-router
+
+    # Reload systemd and activate service
+    systemctl daemon-reload || true
+    systemctl enable sfz-router.service || true
+    systemctl restart sfz-router.service || true
+    ;;
+esac
+
+exit 0
+
